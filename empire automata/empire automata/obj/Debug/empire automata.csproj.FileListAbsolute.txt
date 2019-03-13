@@ -1,0 +1,10 @@
+U:\computing\C#\empire automata\empire automata\obj\Debug\empire automata.csprojAssemblyReference.cache
+U:\computing\C#\empire automata\empire automata\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+U:\computing\C#\empire automata\empire automata\obj\Debug\WindowsFormsApp1.Form1.resources
+U:\computing\C#\empire automata\empire automata\obj\Debug\empire automata.csproj.GenerateResource.cache
+U:\computing\C#\empire automata\empire automata\obj\Debug\empire automata.csproj.CoreCompileInputs.cache
+U:\computing\C#\empire automata\empire automata\bin\Debug\empire automata.exe.config
+U:\computing\C#\empire automata\empire automata\bin\Debug\empire automata.exe
+U:\computing\C#\empire automata\empire automata\bin\Debug\empire automata.pdb
+U:\computing\C#\empire automata\empire automata\obj\Debug\empire automata.exe
+U:\computing\C#\empire automata\empire automata\obj\Debug\empire automata.pdb
